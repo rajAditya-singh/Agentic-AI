@@ -1,0 +1,8 @@
+requests==2.31.0
+flask==3.0.0
+
+steps to run virtual environment
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirement.txt
+deactivate
